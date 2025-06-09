@@ -34,14 +34,14 @@ Ready for production deployment
 
 🌐 Tech Stack
 
-Frontend: Next.js 14 App Router + TypeScript + Tailwind CSS + shadcn/ui
-Backend: Next.js API Route
-Database: PostgreSQL
-ORM: Prisma
-Authentication: Clerk/Auth.js
-Markdown: @uiw/react-md-editor
-Deployment: Vercel 
-DevOps: GitHub Actions
+| Frontend       | Next.js 14 App Router + TypeScript + Tailwind CSS + shadcn/ui |
+| Backend        | Next.js API Route                                             |
+| Database       | PostgreSQL                                                    |
+| ORM            | Prisma                                                        |
+| Authentication | Auth.js                                                       |
+| Markdown       | @uiw/react-md-editor                                          |
+| Deployment     | Vercel                                                        |
+| DevOps         | GitHub Actions                                                |
 
 🧩 Modules
 | Modules         | Actions                                               |
