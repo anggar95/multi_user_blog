@@ -2,6 +2,7 @@
 A fully functional, full-stack multi-user blogging platform. Designed for seamless writing, sharing, and discovering content, the platform comes with modern features for both readers and writers.
 
 🚀 Features
+
 ✅ Authentication
 User registration and login
 
