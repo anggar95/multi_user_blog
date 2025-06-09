@@ -1,37 +1,45 @@
 📝 Multi-User Blogging Platform
+
 A fully functional, full-stack multi-user blogging platform. Designed for seamless writing, sharing, and discovering content, the platform comes with modern features for both readers and writers.
 
 🚀 Features
 
 ✅ Authentication
+
 User registration and login
 
 Social login support (Google, GitHub, etc.)
 
 📝 Blog Management
+
 Create, edit, and delete articles
 
 Markdown editor with preview support
 
 🏷️ Tag System
+
 Organize articles using tags
 
 Filter articles by tag
 
 💬 Comments & Likes
+
 Article comment system
 
 Like feature for user engagement
 
 🔍 Search & Pagination
+
 Full-text search across articles
 
 Pagination for content browsing
 
 ⚡ Server-Side Rendering & Deployment
+
 SSR support for improved performance and SEO
 
 Ready for production deployment
+
 
 🌐 Tech Stack
 
@@ -46,7 +54,9 @@ Ready for production deployment
 | Deployment     | Vercel                                                        |
 | DevOps         | GitHub Actions                                                |
 
+
 🧩 Modules
+
 | Modules         | Actions                                               |
 | --------------- | ----------------------------------------------------- |
 | Users           | Register, Login, Logout, Profile, Social login        |
