@@ -34,6 +34,8 @@ Ready for production deployment
 
 🌐 Tech Stack
 
+| Layer          | Technology                                                    |
+| -------------- | ------------------------------------------------------------- |
 | Frontend       | Next.js 14 App Router + TypeScript + Tailwind CSS + shadcn/ui |
 | Backend        | Next.js API Route                                             |
 | Database       | PostgreSQL                                                    |
